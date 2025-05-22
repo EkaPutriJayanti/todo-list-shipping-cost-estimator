@@ -63,3 +63,8 @@
     "minimum-stability": "stable",
     "prefer-stable": true
 }
+"autoload": {
+    "files": [
+        "app/Helpers/helpers.php"
+    ]
+}
